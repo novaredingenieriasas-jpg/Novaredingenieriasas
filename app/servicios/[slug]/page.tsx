@@ -88,7 +88,7 @@ export default function DetalleServicio() {
               <span className="inline-block px-3 py-1 rounded-full bg-red-500/10 border border-red-500/20 text-red-500 text-xs font-bold uppercase tracking-wider mb-3">
                 Atención Inmediata
               </span>
-              <h3 className="text-2xl font-bold text-white mb-2">¿Necesitas ayuda o cotización?</h3>
+              <h3 className="text-2xl font-bold text-white mb-2">¿Buscas Soluciones de Ingeníeria?</h3>
               <p className="text-neutral-400 text-sm max-w-md">
                 Comunícate directamente con nuestro equipo de ingenieros para asesoría, proyectos o agenda de visitas técnicas.
               </p>
